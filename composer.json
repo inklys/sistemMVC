@@ -1,0 +1,16 @@
+{
+    "name": "inklys/sistem-mvc",
+    "description": "teste de sistema MVC",
+    "type": "project",
+    "authors": [
+        {
+            "name": "inklys",
+            "email": "inklys_need@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmailer/phpmailer": "~5.2",
+        "rain/raintpl": ">=3.0.0"
+    }
+}
